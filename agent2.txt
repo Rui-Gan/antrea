@@ -1,0 +1,10 @@
+I0212 17:18:52.504088       1 log_file.go:93] Set log file max size to 104857600
+I0212 17:18:52.504959       1 agent.go:106] "LFX Mentorship task" Github-ID="Rui-Gan"
+I0212 17:18:52.504980       1 agent.go:107] "LFX Mentorship task" pod name="antrea-agent-v2zjh"
+I0212 17:18:52.504995       1 agent.go:109] "Starting Antrea agent" version="v2.0.0-dev-84e23bc7.dirty"
+I0212 17:18:52.505014       1 client.go:89] No kubeconfig file was specified. Falling back to in-cluster config
+I0212 17:18:52.506062       1 prometheus.go:189] Initializing prometheus metrics
+I0212 17:18:52.506132       1 ovs_client.go:71] Connecting to OVSDB at address /var/run/openvswitch/db.sock
+I0212 17:18:53.506499       1 ovs_client.go:90] Not connected yet, will try again in 2s
+I0212 17:18:53.507545       1 agent.go:412] Setting up node network
+I0212 17:18:53.507640       1 discoverer.go:82] Starting ServiceCIDRDiscoverer

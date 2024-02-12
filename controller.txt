@@ -1,0 +1,10 @@
+I0212 17:18:51.675251       1 log_file.go:93] Set log file max size to 104857600
+I0212 17:18:51.675669       1 controller.go:125] "LFX Mentorship task" Github-ID="Rui-Gan"
+I0212 17:18:51.675676       1 controller.go:126] "LFX Mentorship task" pod name="antrea-controller-dc485b558-48rh5"
+I0212 17:18:51.675679       1 controller.go:128] Starting Antrea Controller (version v2.0.0-dev-84e23bc7.dirty)
+I0212 17:18:51.675688       1 client.go:89] No kubeconfig file was specified. Falling back to in-cluster config
+I0212 17:18:51.682916       1 selfsignedcert_provider.go:251] "Writing certificate and key to the cert directory"
+I0212 17:18:51.804127       1 prometheus.go:124] Initializing prometheus metrics
+I0212 17:18:51.804160       1 group_entity_index.go:668] Starting GroupEntityIndex
+I0212 17:18:51.804193       1 controller.go:152] "Starting" controller="EgressController"
+I0212 17:18:51.804198       1 shared_informer.go:270] Waiting for caches to sync for EgressController
